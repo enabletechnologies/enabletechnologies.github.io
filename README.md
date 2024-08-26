@@ -2,9 +2,9 @@
   <img width="300px" src="logo.png">
 </p>
 
-<h1 align="center">product-app-deploy</h1>
+<h1 align="center">enabletechnologies.github.io</h1>
 
-A helm chart repository for managing application deployment to product environments
+A repository to maintain public pages
 
 ## Contributing Guidelines
 
